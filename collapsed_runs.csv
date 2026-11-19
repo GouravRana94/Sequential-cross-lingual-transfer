@@ -1,0 +1,17 @@
+experiment,model,eval_on,lang,k,seed,run,f1,retries
+zero_shot,mBERT,or,,,42,zs_mBERT_s42,0.0,
+zero_shot,mBERT,or,,,123,zs_mBERT_s123,0.0,
+zero_shot,mBERT,or,,,2024,zs_mBERT_s2024,0.0,
+few_shot,mBERT,as,as,10.0,42,fs_mBERT_as_k10_s42,0.0,1.0
+few_shot,mBERT,as,as,10.0,123,fs_mBERT_as_k10_s123,0.0,1.0
+few_shot,XLM-R,as,as,10.0,42,fs_XLM-R_as_k10_s42,0.0,1.0
+few_shot,XLM-R,as,as,10.0,123,fs_XLM-R_as_k10_s123,0.0,1.0
+few_shot,MuRIL,gu,gu,10.0,42,fs_MuRIL_gu_k10_s42,0.0,0.0
+few_shot,MuRIL,or,or,50.0,42,fs_MuRIL_or_k50_s42,0.0032520325203252037,0.0
+few_shot,MuRIL,as,as,10.0,42,fs_MuRIL_as_k10_s42,0.0,1.0
+few_shot,MuRIL,as,as,50.0,42,fs_MuRIL_as_k50_s42,0.0,1.0
+few_shot,MuRIL,as,as,50.0,123,fs_MuRIL_as_k50_s123,0.0,1.0
+few_shot,MuRIL,as,as,100.0,42,fs_MuRIL_as_k100_s42,0.0,1.0
+few_shot,IndicBERT,as,as,10.0,123,fs_IndicBERT_as_k10_s123,0.0,1.0
+few_shot,IndicBERT,as,as,50.0,123,fs_IndicBERT_as_k50_s123,0.0,1.0
+few_shot,IndicBERT,as,as,100.0,123,fs_IndicBERT_as_k100_s123,0.0,1.0

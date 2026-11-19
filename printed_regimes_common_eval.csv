@@ -1,0 +1,9 @@
+test_set,model,zero_shot,direct,sequential,seq_minus_zs_mean_diff,seq_minus_zs_ci_lo,seq_minus_zs_ci_hi,seq_minus_zs_langs_A_better,seq_minus_zs_n_langs,seq_minus_zs_wilcoxon_p
+naam500,mBERT,42.482,40.190,50.268,7.786,6.252,9.337,11,11,0.001
+naam500,XLM-R,46.211,37.389,53.620,7.409,4.810,9.629,10,11,0.002
+naam500,MuRIL,56.004,10.785,58.938,2.934,1.577,4.154,10,11,0.005
+naam500,IndicBERT,48.021,14.543,53.604,5.584,3.434,7.484,10,11,0.003
+wikiann,mBERT,48.121,24.669,44.002,-4.119,-7.513,-1.602,1,11,0.003
+wikiann,XLM-R,51.873,22.403,48.274,-3.600,-5.422,-1.700,1,11,0.007
+wikiann,MuRIL,69.765,5.812,67.181,-2.583,-4.151,-1.339,0,11,0.001
+wikiann,IndicBERT,56.981,7.854,53.977,-3.004,-4.968,-1.140,2,11,0.014

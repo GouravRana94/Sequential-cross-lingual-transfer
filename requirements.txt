@@ -1,0 +1,12 @@
+# versions recorded in the original run's log (Kaggle)
+transformers==5.0.0
+datasets==5.0.0
+evaluate==0.4.6
+accelerate==1.13.0
+numpy==2.0.2
+pandas==2.3.3
+seqeval
+scipy
+matplotlib
+huggingface_hub
+torch   # record exact version via environment.json

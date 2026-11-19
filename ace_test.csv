@@ -1,0 +1,201 @@
+tokens,ner_tags,langs,spans
+['Bahsa' 'Arab'],[3 4],['ace' 'ace'],['ORG: Bahsa Arab']
+['Bahsa' 'Arab'],[3 4],['ace' 'ace'],['ORG: Bahsa Arab']
+"[""'"" ""''"" 'Propinsi' 'Mehedinţi' ""''"" ""'"" 'nakeuh' 'salah' 'saboh'
+ 'propinsi' 'nyang' 'na' 'di' 'Rumania' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 5 0],"['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace' 'ace']",['LOC: Rumania']
+"['21' 'Ramadhan' ',' 'Ali' 'bin' 'Abi' 'Thalib' 'wafeuët' 'lheuëh' 'jipoh'
+ 'ngon' 'peudeuëng' 'bak' 'ulèe' 'duwa' 'uroë' 'seugolomnyan' '.']",[0 0 0 1 2 2 2 0 0 0 0 0 0 0 0 0 0 0],"['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace' 'ace' 'ace' 'ace' 'ace']",['PER: Ali bin Abi Thalib']
+"['Abu' 'Bakar' 'nyang' 'neudeungo' 'meunan' 'keujadian' 'laju' 'neugisa'
+ 'u' 'Madinah' 'neujak' 'meurumpok' 'ngon' 'Umar' 'nyang' 'teungoh'
+ 'neutham' 'ureuëng' ""la'én"" ',' 'ngon' 'neupeugah' 'lé' 'Abu' 'Bakar' ':']",[1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0],"['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace']",['PER: Abu Bakar']
+"['Jamaika' ""''"" '(' 'Ratu' 'Elizabeth' 'II' ')' ""''""]",[5 0 0 0 1 2 0 0],['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'],['LOC: Jamaika' 'PER: Elizabeth II']
+['Kulmim-As-Samarah'],[5],['ace'],['LOC: Kulmim-As-Samarah']
+"[""'"" ""''"" 'Nanggroë' 'Shan' ""''"" ""'"" 'nakeuh' 'saboh' 'nanggroë' 'di'
+ 'Myanmar' '.']",[0 0 0 0 0 0 0 0 0 0 3 0],['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'],['ORG: Myanmar']
+"[""'"" ""''"" 'Tanjung' 'Pinang' ""''"" ""'"" 'nakeuh' 'saboh' 'banda' 'di'
+ 'Indônèsia' 'nyang' 'jeut' 'keu' 'nang' 'nanggroe' 'di' 'propinsi'
+ 'Pulo-pulo' 'Riau' '.']",[0 0 0 0 0 0 0 0 0 0 5 0 0 0 0 0 0 3 4 4 0],"['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace']",['LOC: Indônèsia' 'ORG: propinsi Pulo-pulo Riau']
+"[""'"" ""''"" 'Divisi' 'Taninthayi' ""''"" ""'"" 'nakeuh' 'saboh' 'divisi' 'di'
+ 'Myanmar' '.']",[0 0 0 0 0 0 0 0 0 0 3 0],['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'],['ORG: Myanmar']
+['Megawati' 'Soekarnoputri'],[1 2],['ace' 'ace'],['PER: Megawati Soekarnoputri']
+"['Keubit-keubit' 'sunggôh' 'ka' 'kamoë' 'ka' 'meubri' 'keu' 'gata' '('
+ 'hai' 'Muhammad' ')' 'kruëng' 'Al-Kautsar' '.']",[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0],"['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace' 'ace']",['PER: Muhammad']
+['ALIH' 'Universitas' 'Federal' 'Bahia'],[0 3 4 4],['ace' 'ace' 'ace' 'ace'],['ORG: Universitas Federal Bahia']
+"[""'"" ""''"" 'Ulèë' 'Karéng' ""''"" ""'"" 'nakeuh' 'saboh' 'keucamatan' 'nyang'
+ 'na' 'lam' 'wilayah' 'Banda' 'Acèh' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 5 6 0],"['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace' 'ace' 'ace']",['LOC: Banda Acèh']
+['PUPINAH' 'Muhammad'],[0 1],['ace' 'ace'],['PER: Muhammad']
+"[""'"" ""''"" 'Arab' 'Saudi' ""''"" ""'"" '(' 'Bahsa' 'Arab' ':' 'السعودية' ','
+ 'المملكة' 'العربية' 'السعودية' ')' 'jithèë' 'ngön' 'nan' 'Keurajeuën'
+ 'Arab' 'Saudi' ',' 'saboh' 'nanggroë' 'Arab' 'nyang' 'paléng' 'luwah'
+ 'di' 'Asia' 'Barat' 'ngön' 'luwah' '(' '2,150,000' 'km2' ')' '.']","[0 0 0 0 0 0 0 3 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0]","['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace' 'ace']",['ORG: Bahsa Arab']
+"['Matt' 'Damon' 'seubagoe' 'Benjamin' 'Mee' ',' 'ayah' 'Dylan' 'ngön'
+ 'Rosie' ',' 'nyang' 'po' 'rumoh' 'binatang' 'bak' 'filem' '.']",[1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0],"['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace' 'ace' 'ace' 'ace' 'ace']",['PER: Matt Damon']
+"['Peulajaran' 'nyoe' 'geucok' 'nibak' 'riwayat' 'Nabi' 'Sulaiman' 'ngön'
+ 'teuntrageuh' 'nyang' 'bak' 'watèe' 'nyan' 'geulèwat' 'bak' 'eumpueng'
+ 'sidom' '.']",[0 0 0 0 0 1 2 0 0 0 0 0 0 0 0 0 0 0],"['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace' 'ace' 'ace' 'ace' 'ace']",['PER: Nabi Sulaiman']
+['Sèrbia'],[5],['ace'],['LOC: Sèrbia']
+['Chirinkotan' '(' '知林古丹島' ')'],[5 0 0 0],['ace' 'ace' 'ace' 'ace'],['LOC: Chirinkotan']
+['Pulo' 'Bellona' '(' 'lam' 'pulo-pulo' 'Solomon' ')'],[1 2 0 0 0 0 0],['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'],['PER: Pulo Bellona']
+['Covasna'],[5],['ace'],['LOC: Covasna']
+"[""'"" ""''"" 'Propinsi' 'Brăila' ""''"" ""'"" 'nakeuh' 'salah' 'saboh' 'propinsi'
+ 'nyang' 'na' 'di' 'Rumania' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 5 0],"['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace' 'ace']",['LOC: Rumania']
+['Simpang' 'Tiga' 'Redelong'],[3 4 4],['ace' 'ace' 'ace'],['ORG: Simpang Tiga Redelong']
+"['Pulo-pulo' 'Solomon' ""''"" '(' 'Ratu' 'Elizabeth' 'II' ')' ""''""]",[5 6 0 0 0 1 2 0 0],['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'],['LOC: Pulo-pulo Solomon' 'PER: Elizabeth II']
+['Louang' 'Namtha'],[5 6],['ace' 'ace'],['LOC: Louang Namtha']
+['Nanggroë' 'Chin'],[5 6],['ace' 'ace'],['LOC: Nanggroë Chin']
+['Satu' 'Mare'],[5 6],['ace' 'ace'],['LOC: Satu Mare']
+['PUPINAH' 'Muhammad'],[0 1],['ace' 'ace'],['PER: Muhammad']
+['Thừa' 'Thiên-Huế'],[3 4],['ace' 'ace'],['ORG: Thừa Thiên-Huế']
+['PUPINAH' 'Muhammad'],[0 1],['ace' 'ace'],['PER: Muhammad']
+['Freddie' 'Mercury'],[1 2],['ace' 'ace'],['PER: Freddie Mercury']
+"['Belize' ""''"" '(' 'Ratu' 'Elizabeth' 'II' ')' ""''""]",[5 0 0 0 1 2 0 0],['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'],['LOC: Belize' 'PER: Elizabeth II']
+['Snouck' 'Hurgronje' '.'],[1 2 0],['ace' 'ace' 'ace'],['PER: Snouck Hurgronje']
+['Adjud'],[5],['ace'],['LOC: Adjud']
+"['Beureukaih' ':' 'Mango' 'tree' 'Kerala' 'in' 'full' 'bloom.jpg|Bak'
+ 'mamplam' 'teutay' 'ngon' 'boh' 'di' 'Kerala' ',' 'India']",[0 0 0 0 0 0 0 0 0 0 0 0 0 5 0 5],"['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace' 'ace' 'ace']",['LOC: Kerala' 'LOC: India']
+['Bahsa' 'Arab'],[3 4],['ace' 'ace'],['ORG: Bahsa Arab']
+"['Australia' ""''"" '(' 'Ratu' 'Elizabeth' 'II' ')' ""''""]",[5 0 0 0 1 2 0 0],['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'],['LOC: Australia' 'PER: Elizabeth II']
+"['Ulèe' 'Neugara' 'Hindia' 'Beulanda' 'nekeuh' 'Ratu' '/' 'Raja'
+ 'Beulanda' 'nyang' 'geupeuwaki' 'bak' 'sidroe' 'Gubernur' 'Jeundran'
+ 'nyang' 'jiduëk' 'di' 'Batavia' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0],"['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace']",['ORG: Batavia']
+"[""Sya'ban""]",[3],['ace'],"[""ORG: Sya'ban""]"
+"['Bak' 'saboh' 'peunegah' 'nakeuh' 'mula' 'nan' 'Sabang' 'nyan' 'nakeuh'
+ 'nibak' 'Bahsa' 'Arab' ""''shabaq"" ""''"" 'nyang' ""meuma'na"" 'gunong'
+ 'beureutôh' '.']",[0 0 0 0 0 0 0 0 0 0 3 4 0 0 0 0 0 0 0],"['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace']",['ORG: Bahsa Arab']
+"[""'"" ""''"" 'Musium' 'Cut' 'Nyak' 'Dhiën' ""''"" ""'"" 'dilèë' 'nakeuh' 'rumoh'
+ 'aseuli' 'Cut' 'Nyak' 'Dhiën' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 1 2 2 0],"['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace' 'ace' 'ace']",['PER: Cut Nyak Dhiën']
+['ALIH' 'Partai' 'Keadilan' 'Sejahtera'],[0 3 4 4],['ace' 'ace' 'ace' 'ace'],['ORG: Partai Keadilan Sejahtera']
+['==' 'Diskografi' 'di' 'The' 'Doors' '=='],[0 0 0 3 4 0],['ace' 'ace' 'ace' 'ace' 'ace' 'ace'],['ORG: The Doors']
+['Propinsi' 'Ratanakiri'],[5 6],['ace' 'ace'],['LOC: Propinsi Ratanakiri']
+['Mali'],[5],['ace'],['LOC: Mali']
+['Wikipèdia' 'bahsa' 'Acèh' '-' 'Twitter' '(' 'Bahsa' 'Aceh' ')'],[0 0 0 0 3 0 0 0 0],['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'],['ORG: Twitter']
+['Bahsa' 'Arab'],[3 4],['ace' 'ace'],['ORG: Bahsa Arab']
+['Ali' 'bin' 'Abi' 'Thalib'],[1 2 2 2],['ace' 'ace' 'ace' 'ace'],['PER: Ali bin Abi Thalib']
+['Pileni' '(' 'lam' 'Pulo-pulo' 'Solomon' ')'],[1 0 0 0 0 0],['ace' 'ace' 'ace' 'ace' 'ace' 'ace'],['PER: Pileni']
+"[""'"" ""''"" 'Daniel' 'Michael' 'Blake' 'Day-Lewis' ""''"" ""'"" 'nakeuh'
+ 'sidroe' 'aktor' 'asay' 'Amirika' 'Syarikat' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 5 6 0],"['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace' 'ace']",['LOC: Amirika Syarikat']
+['Fujian'],[5],['ace'],['LOC: Fujian']
+"['Peureulè' 'that' 'beutateupeu' 'le' 'geu' 'tanyo' ',' 'nyang'
+ 'bahwasajih' 'jeumulah' 'harah-harah' 'lam' 'saboh-saboh' 'kata' 'lam'
+ 'Bahsa' 'Arab' 'paléng' 'dit' 'na' 'lhèë' 'boh' 'harah' 'jih' 'lagè' ""'""
+ ""''"" 'درس' ',' 'نصر' ',' 'حرم' ""''"" ""'"" '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0],"['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace']",['ORG: Bahsa Arab']
+"['Conto' ':' 'lam' 'poh' '19.00' 'WIB' 'akhé' ""Sya'ban"" 'di' 'Jakarta'
+ 'hana' 'leumah' 'aneuk' 'buleuën' 'bak' 'neuduëk' 'deurjat' 'nyang'
+ 'jeuët' 'geukalon' 'lé' 'ureuëng' 'nyang' 'kalon' '.']",[0 0 0 0 0 0 0 3 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0],"['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace']","[""ORG: Sya'ban"" 'LOC: Jakarta']"
+['Shaanxi'],[5],['ace'],['LOC: Shaanxi']
+"[""'"" ""''"" 'Kalimantan' ""''"" ""'"" 'nakeuh' 'saboh' 'pulo' 'nyang' 'na' 'di'
+ 'Indônèsia' '.']",[0 0 0 0 0 0 0 0 0 0 0 5 0],"['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace']",['LOC: Indônèsia']
+['Meuseujid' 'al-Aqsha'],[3 4],['ace' 'ace'],['ORG: Meuseujid al-Aqsha']
+['ALIH' 'Pulo' 'Madura'],[0 5 6],['ace' 'ace' 'ace'],['LOC: Pulo Madura']
+"['Iman' 'nakeuh' 'ikrar' '/' 'kheun' 'ngon' 'lidah' 'seureuta'
+ 'tapeubeutôy' 'lam' 'haté' 'peukara-peukara' 'nyang' 'geuba' 'lé'
+ 'Rasulullah' 'saw..' 'Iman' 'nyang' 'sampôreuna' 'nakeuh' 'taikrar'
+ 'deungon' 'lidah' 'tapeubeutôy' 'lam' 'haté' ',' 'tapubuët' 'ngon'
+ 'anggèëta' 'badan' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0],"['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace']",['PER: Rasulullah']
+"[""'"" ""''"" 'Nanggroë' 'Mon' ""''"" ""'"" 'nakeuh' 'saboh' 'nanggroë' 'di'
+ 'Myanmar' '.']",[0 0 0 0 0 0 0 0 0 0 3 0],['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'],['ORG: Myanmar']
+['Asia' 'Teungöh'],[5 6],['ace' 'ace'],['LOC: Asia Teungöh']
+"['Teungku' 'Daud' ""Beureu'éh"" '.']",[0 1 2 0],['ace' 'ace' 'ace' 'ace'],"[""PER: Daud Beureu'éh""]"
+['**' 'Asai' 'neupeujeut' 'Nabi' 'Adam' '.'],[0 0 0 1 2 0],['ace' 'ace' 'ace' 'ace' 'ace' 'ace'],['PER: Nabi Adam']
+['Pulo-pulo' 'Bangka' 'Belitung'],[3 4 4],['ace' 'ace' 'ace'],['ORG: Pulo-pulo Bangka Belitung']
+['Centro' 'Federal' 'de' 'Educação' 'Tecnológica' 'de' 'Minas' 'Gerais'],[3 4 4 4 4 4 4 4],['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'],['ORG: Centro Federal de Educação Tecnológica de Minas Gerais']
+"[""Sus-Masah-Dar'ah""]",[5],['ace'],"[""LOC: Sus-Masah-Dar'ah""]"
+['Jim' 'Morrison'],[1 2],['ace' 'ace'],['PER: Jim Morrison']
+"[""'"" ""''"" 'Sibiu' ""''"" ""'"" 'nakeuh' 'saboh' 'banda' 'rayek' 'di' 'Rumania'
+ '.']",[0 0 0 0 0 0 0 0 0 0 5 0],['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'],['LOC: Rumania']
+['Bahsa' 'Arab'],[3 4],['ace' 'ace'],['ORG: Bahsa Arab']
+"['Buet' 'siuroe-uroe' 'nakeuh' 'meujangeun' 'ngön' 'Seiran' 'Kobayashi'
+ '.']",[0 0 0 0 0 1 2 0],['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'],['PER: Seiran Kobayashi']
+['Myanmar'],[3],['ace'],['ORG: Myanmar']
+"[""'"" ""''"" 'Divisi' 'Sagaing' ""''"" ""'"" 'nakeuh' 'saboh' 'divisi' 'di'
+ 'Myanmar' '.']",[0 0 0 0 0 0 0 0 0 0 3 0],['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'],['ORG: Myanmar']
+['ALIH' 'Ureuëng' 'Dong'],[0 3 4],['ace' 'ace' 'ace'],['ORG: Ureuëng Dong']
+"[""'"" ""''"" 'Bandar' 'Udara' 'Antar' 'Nanggroë' 'Tan' 'Son' 'Nhat' ""''"" ""'""
+ 'atawa' ""'"" ""''"" 'Tan' 'Son' 'Nhat' 'International' 'Airport' ""''"" ""'""
+ 'na' 'keuh' 'saboh' 'bandara' 'lam' 'wilayah' 'Kota' 'Ho' 'Chi' 'Minh'
+ 'di' 'Prefektur' 'Dong' 'Nam' 'Bo' ',' 'Viètnam' '.']","[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 6 6 6 0 0 0 0 0 0
+ 5 0]","['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace' 'ace']",['LOC: Kota Ho Chi Minh' 'LOC: Viètnam']
+"[""'"" ""''"" 'Zalău' ""''"" ""'"" 'nakeuh' 'saboh' 'banda' 'rayek' 'di' 'Rumania'
+ '.']",[0 0 0 0 0 0 0 0 0 0 5 0],['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'],['LOC: Rumania']
+['Soekarno'],[1],['ace'],['PER: Soekarno']
+['ALIH' 'Super' 'Junior'],[0 3 4],['ace' 'ace' 'ace'],['ORG: Super Junior']
+['Fathimah' 'az-Zahara'],[1 2],['ace' 'ace'],['PER: Fathimah az-Zahara']
+['Bahsa' 'Arab'],[3 4],['ace' 'ace'],['ORG: Bahsa Arab']
+"['Geupham' 'lé' 'ureuëng' 'Islam' 'puasa' 'nyoë' 'saboh' 'ibadah' 'nyang'
+ 'ka' 'na' 'sipanyang' 'seujarah' 'manusia' 'phôn' 'bak' 'Nabi' 'Adam' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 0],"['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace']",['PER: Nabi Adam']
+"['Awai' 'buleuën' '4' 'lé' 'panglima' 'prang' 'Beulanda' 'Johan' 'Harmen'
+ 'Rudolf' 'Köhler' 'ka' 'jipimpin' '3.000' 'droe' 'teuntra' 'darat' 'ji'
+ 'teungoh' 'di' 'Panté' 'Ceureumèn' '.']",[0 0 0 0 0 0 0 1 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0],"['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace']",['PER: Johan Harmen Rudolf Köhler']
+['Propinsi' 'Kampong' 'Thom'],[5 6 6],['ace' 'ace' 'ace'],['LOC: Propinsi Kampong Thom']
+"[""'"" ""''"" 'Kota' 'Langsa' ""''"" ""'"" 'nakeuh' 'salah' 'saboh' 'banda'
+ 'nyang' 'na' 'di' 'Acèh' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 5 0],"['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace' 'ace']",['LOC: Acèh']
+['Shanghai'],[5],['ace'],['LOC: Shanghai']
+['Togo'],[5],['ace'],['LOC: Togo']
+"[""'"" ""''"" 'Eldred' 'Gregory' 'Peck' ""''"" ""'"" '(' '1916-2003' ')' 'nakeuh'
+ 'sidroe' 'aktor' 'asay' 'Amirika' 'Syarikat' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 6 0],"['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace' 'ace' 'ace' 'ace']",['LOC: Amirika Syarikat']
+['Prang' 'keu' 'II' 'seunambông' 'prang' 'thôn' '1873' '.'],[3 4 4 0 0 0 0 0],['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'],['ORG: Prang keu II']
+"['Rio' 'Suzuki' 'seubagoe' 'Maki' '(' '真希' ')' ',' 'atawa' '``' 'Donki'
+ ""''"" ')' '(' 'ドンキ' ')']",[1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0],"['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace' 'ace' 'ace']",['PER: Rio Suzuki']
+['Pyeongseong'],[5],['ace'],['LOC: Pyeongseong']
+"[""'"" ""''"" 'Belize' ""''"" ""'"" 'nakeuh' 'saboh' 'neugara' 'nyang' 'na' 'di'
+ 'kawasan' 'Amirika' 'Teungoh' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 5 6 0],"['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace' 'ace']",['LOC: Amirika Teungoh']
+"[""'"" ""''"" 'Propinsi' 'Vâlcea' ""''"" ""'"" 'nakeuh' 'salah' 'saboh' 'propinsi'
+ 'nyang' 'na' 'di' 'Rumania' '.']",[0 0 0 0 0 0 0 0 0 0 0 0 0 5 0],"['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace' 'ace']",['LOC: Rumania']
+"[""'"" ""''"" 'Sudan' ""''"" ""'"" '(' ""''as-Sūdān"" ""''"" 'or' ';' ')' ',' 'nan'
+ 'raseumi' ':' ""'"" ""''"" 'Republic' 'of' 'the' 'Sudan' ""''"" ""'"" '('
+ ""''Jumhūrīyat"" 'as-Sūdān' ""''"" ')' 'nakeuh' 'saboh' 'nanggroë' 'nyang'
+ 'na' 'di' 'wilayah' 'Afrika' 'Utara' '.']","[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 6
+ 0]","['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace']",['LOC: Afrika Utara']
+['Kitab' 'nyoë' 'nakeuh' 'teujeumah' 'dari' 'Bahsa' 'Arab' '.'],[0 0 0 0 0 3 4 0],['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'],['ORG: Bahsa Arab']
+"['Di' 'sinan' 'na' 'nanggroe' 'geupeunan' 'Vatikan' ',' 'nanggroe' 'nyang'
+ 'ubeut' 'meutapi' 'rayek' 'that' 'peungarohjih' '.']",[0 0 0 0 0 5 0 0 0 0 0 0 0 0 0],"['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace' 'ace']",['LOC: Vatikan']
+"[""'"" ""''"" 'Abu' 'Bakar' 'Ash-Shiddiq' ""''"" ""'"" 'nakeuh' 'sidroë' 'sahabat'
+ 'Rasulullah' 'saw' '.']",[0 0 0 0 0 0 0 0 0 0 1 2 0],"['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace']",['PER: Rasulullah saw']
+['ALIH' 'Republik' 'Ossetia' 'Utara' '-' 'Alania'],[0 3 4 4 4 4],['ace' 'ace' 'ace' 'ace' 'ace' 'ace'],['ORG: Republik Ossetia Utara - Alania']
+['Fathimah' 'az-Zahara'],[1 2],['ace' 'ace'],['PER: Fathimah az-Zahara']
+"['ALIH' 'Nabi' ""Isma'il""]",[0 1 2],['ace' 'ace' 'ace'],"[""PER: Nabi Isma'il""]"
+"['Moharriadi' 'nakeuh' 'lulosan' 'Fakultas' 'Teknik' 'Universitas' 'Syiah'
+ 'Kuala' 'ngon' 'Fakultas' 'Tarbiyah' 'IAIN' 'Ar-Raniry' '.']",[0 0 0 0 0 3 4 4 0 0 0 0 0 0],"['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'
+ 'ace' 'ace']",['ORG: Universitas Syiah Kuala']
+['Kitab' 'nyoë' 'nakeuh' 'teujeumah' 'dari' 'Bahsa' 'Arab' '.'],[0 0 0 0 0 3 4 0],['ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace' 'ace'],['ORG: Bahsa Arab']

@@ -1,0 +1,145 @@
+experiment,model,lang,k,seed,run,error
+few_shot,mBERT,ur,10,42,fs_mBERT_ur_k10_s42,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-9d34575711b884a9', 'default-d32606dd40cd5ca3', 'default-e260931469bb"
+few_shot,mBERT,ur,10,123,fs_mBERT_ur_k10_s123,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-9d34575711b884a9', 'default-d32606dd40cd5ca3', 'default-e260931469bb"
+few_shot,mBERT,ur,10,2024,fs_mBERT_ur_k10_s2024,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-9d34575711b884a9', 'default-d32606dd40cd5ca3', 'default-e260931469bb"
+few_shot,mBERT,ur,50,42,fs_mBERT_ur_k50_s42,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-9d34575711b884a9', 'default-d32606dd40cd5ca3', 'default-e260931469bb"
+few_shot,mBERT,ur,50,123,fs_mBERT_ur_k50_s123,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-9d34575711b884a9', 'default-d32606dd40cd5ca3', 'default-e260931469bb"
+few_shot,mBERT,ur,50,2024,fs_mBERT_ur_k50_s2024,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-9d34575711b884a9', 'default-d32606dd40cd5ca3', 'default-e260931469bb"
+few_shot,mBERT,ur,100,42,fs_mBERT_ur_k100_s42,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-9d34575711b884a9', 'default-d32606dd40cd5ca3', 'default-e260931469bb"
+few_shot,mBERT,ur,100,123,fs_mBERT_ur_k100_s123,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-9d34575711b884a9', 'default-d32606dd40cd5ca3', 'default-e260931469bb"
+few_shot,mBERT,ur,100,2024,fs_mBERT_ur_k100_s2024,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-9d34575711b884a9', 'default-d32606dd40cd5ca3', 'default-e260931469bb"
+few_shot,XLM-R,ur,10,42,fs_XLM-R_ur_k10_s42,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+few_shot,XLM-R,ur,10,123,fs_XLM-R_ur_k10_s123,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+few_shot,XLM-R,ur,10,2024,fs_XLM-R_ur_k10_s2024,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+few_shot,XLM-R,ur,50,42,fs_XLM-R_ur_k50_s42,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+few_shot,XLM-R,ur,50,123,fs_XLM-R_ur_k50_s123,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+few_shot,XLM-R,ur,50,2024,fs_XLM-R_ur_k50_s2024,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+few_shot,XLM-R,ur,100,42,fs_XLM-R_ur_k100_s42,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+few_shot,XLM-R,ur,100,123,fs_XLM-R_ur_k100_s123,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+few_shot,XLM-R,ur,100,2024,fs_XLM-R_ur_k100_s2024,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+few_shot,MuRIL,ur,10,42,fs_MuRIL_ur_k10_s42,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+few_shot,MuRIL,ur,10,123,fs_MuRIL_ur_k10_s123,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+few_shot,MuRIL,ur,10,2024,fs_MuRIL_ur_k10_s2024,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+few_shot,MuRIL,ur,50,42,fs_MuRIL_ur_k50_s42,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+few_shot,MuRIL,ur,50,123,fs_MuRIL_ur_k50_s123,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+few_shot,MuRIL,ur,50,2024,fs_MuRIL_ur_k50_s2024,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+few_shot,MuRIL,ur,100,42,fs_MuRIL_ur_k100_s42,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+few_shot,MuRIL,ur,100,123,fs_MuRIL_ur_k100_s123,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+few_shot,MuRIL,ur,100,2024,fs_MuRIL_ur_k100_s2024,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+few_shot,IndicBERT,ur,10,42,fs_IndicBERT_ur_k10_s42,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+few_shot,IndicBERT,ur,10,123,fs_IndicBERT_ur_k10_s123,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+few_shot,IndicBERT,ur,10,2024,fs_IndicBERT_ur_k10_s2024,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+few_shot,IndicBERT,ur,50,42,fs_IndicBERT_ur_k50_s42,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+few_shot,IndicBERT,ur,50,123,fs_IndicBERT_ur_k50_s123,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+few_shot,IndicBERT,ur,50,2024,fs_IndicBERT_ur_k50_s2024,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+few_shot,IndicBERT,ur,100,42,fs_IndicBERT_ur_k100_s42,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+few_shot,IndicBERT,ur,100,123,fs_IndicBERT_ur_k100_s123,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+few_shot,IndicBERT,ur,100,2024,fs_IndicBERT_ur_k100_s2024,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+sequential,mBERT,ur,10,42,seq_mBERT_ur_k10_s42,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+sequential,mBERT,ur,50,42,seq_mBERT_ur_k50_s42,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+sequential,mBERT,ur,100,42,seq_mBERT_ur_k100_s42,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+sequential,mBERT,ur,10,123,seq_mBERT_ur_k10_s123,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+sequential,mBERT,ur,50,123,seq_mBERT_ur_k50_s123,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+sequential,mBERT,ur,100,123,seq_mBERT_ur_k100_s123,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+sequential,mBERT,ur,10,2024,seq_mBERT_ur_k10_s2024,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+sequential,mBERT,ur,50,2024,seq_mBERT_ur_k50_s2024,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+sequential,mBERT,ur,100,2024,seq_mBERT_ur_k100_s2024,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+sequential,XLM-R,ur,10,42,seq_XLM-R_ur_k10_s42,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+sequential,XLM-R,ur,50,42,seq_XLM-R_ur_k50_s42,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+sequential,XLM-R,ur,100,42,seq_XLM-R_ur_k100_s42,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+sequential,XLM-R,ur,10,123,seq_XLM-R_ur_k10_s123,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+sequential,XLM-R,ur,50,123,seq_XLM-R_ur_k50_s123,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+sequential,XLM-R,ur,100,123,seq_XLM-R_ur_k100_s123,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+sequential,XLM-R,ur,10,2024,seq_XLM-R_ur_k10_s2024,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+sequential,XLM-R,ur,50,2024,seq_XLM-R_ur_k50_s2024,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+sequential,XLM-R,ur,100,2024,seq_XLM-R_ur_k100_s2024,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+sequential,MuRIL,ur,10,42,seq_MuRIL_ur_k10_s42,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+sequential,MuRIL,ur,50,42,seq_MuRIL_ur_k50_s42,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+sequential,MuRIL,ur,100,42,seq_MuRIL_ur_k100_s42,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+sequential,MuRIL,ur,10,123,seq_MuRIL_ur_k10_s123,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+sequential,MuRIL,ur,50,123,seq_MuRIL_ur_k50_s123,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+sequential,MuRIL,ur,100,123,seq_MuRIL_ur_k100_s123,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+sequential,MuRIL,ur,10,2024,seq_MuRIL_ur_k10_s2024,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+sequential,MuRIL,ur,50,2024,seq_MuRIL_ur_k50_s2024,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+sequential,MuRIL,ur,100,2024,seq_MuRIL_ur_k100_s2024,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+sequential,IndicBERT,ur,10,42,seq_IndicBERT_ur_k10_s42,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+sequential,IndicBERT,ur,50,42,seq_IndicBERT_ur_k50_s42,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+sequential,IndicBERT,ur,100,42,seq_IndicBERT_ur_k100_s42,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+sequential,IndicBERT,ur,10,123,seq_IndicBERT_ur_k10_s123,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+sequential,IndicBERT,ur,50,123,seq_IndicBERT_ur_k50_s123,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+sequential,IndicBERT,ur,100,123,seq_IndicBERT_ur_k100_s123,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+sequential,IndicBERT,ur,10,2024,seq_IndicBERT_ur_k10_s2024,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+sequential,IndicBERT,ur,50,2024,seq_IndicBERT_ur_k50_s2024,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"
+sequential,IndicBERT,ur,100,2024,seq_IndicBERT_ur_k100_s2024,"ValueError: Couldn't find cache for ai4bharat/naamapadam for config 'default-data_dir=ur'
+Available configs in the cache: ['default-114bebb8269a3b20', 'default-2d1f710cb2ca7543', 'default-36e442b84f4b35e7', 'default-66eb3956fa5fb0b5', 'default-687256dd6e6cdcd5', 'default-68f3889baae4e4bf', 'default-71b0fe9edf03"

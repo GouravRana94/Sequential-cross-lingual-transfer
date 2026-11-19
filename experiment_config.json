@@ -1,0 +1,87 @@
+{
+  "languages": [
+    "hi",
+    "bn",
+    "mr",
+    "gu",
+    "pa",
+    "or",
+    "as",
+    "ur",
+    "ta",
+    "te",
+    "kn",
+    "ml"
+  ],
+  "source_lang": "en",
+  "models": [
+    "mBERT",
+    "XLM-R",
+    "MuRIL",
+    "IndicBERT"
+  ],
+  "seeds": [
+    42,
+    123,
+    2024
+  ],
+  "k_values": [
+    10,
+    50,
+    100
+  ],
+  "experiments": {
+    "zero_shot": true,
+    "few_shot": true,
+    "sequential": true
+  },
+  "total_budget_hours": 8.0,
+  "min_run_headroom_s": 240,
+  "zs_train_cap": 8000,
+  "zs_epochs": 2,
+  "zs_batch": 32,
+  "zs_lr": 3e-05,
+  "fs_epochs_by_k": {
+    "10": 20,
+    "50": 12,
+    "100": 8
+  },
+  "fs_batch_by_k": {
+    "10": 4,
+    "50": 6,
+    "100": 8
+  },
+  "fs_lr_by_model": {
+    "mBERT": 2e-05,
+    "XLM-R": 2e-05,
+    "MuRIL": 1e-05,
+    "IndicBERT": 1.5e-05
+  },
+  "max_len": 96,
+  "weight_decay": 0.01,
+  "warmup_ratio": 0.1,
+  "max_grad_norm": 1.0,
+  "use_weighted_loss": true,
+  "collapse_f1_threshold": 0.01,
+  "max_collapse_retries": 1,
+  "retry_lr_factor": 0.5,
+  "val_cap_fewshot": 200,
+  "test_eval_cap": 500,
+  "use_lalf": true,
+  "lalf_freeze_by_lang": {
+    "hi": 4,
+    "bn": 4,
+    "mr": 4,
+    "gu": 4,
+    "pa": 4,
+    "or": 4,
+    "as": 4,
+    "ur": 2,
+    "ta": 4,
+    "te": 4,
+    "kn": 4,
+    "ml": 4
+  },
+  "hub_max_retries": 5,
+  "hub_backoff_s": 8
+}
